@@ -1,10 +1,6 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
 
 
 <div align="center"><h1>Heart Attack Risk Prediction</h1></div>
@@ -49,31 +45,6 @@ The dataset includes the following features:
 The predictive model will focus on selecting the most informative features from the dataset to improve the accuracy of heart attack risk predictions. By analyzing and prioritizing key factors, the model aims to provide valuable information to identify individuals at higher risk of having a heart attack.
 
 
-<!-- Shields -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/alperrkilic/heart-attack-prediction.svg?style=for-the-badge
-[forks-shield]: https://img.shields.io/github/forks/alperrkilic/heart-attack-prediction.svg?style=for-the-badge
-[stars-shield]: https://img.shields.io/github/stars/alperrkilic/heart-attack-prediction.svg?style=for-the-badge
-[issues-shield]: https://img.shields.io/github/issues/alperrkilic/heart-attack-prediction.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/alperrkilic/heart-attack-prediction.svg?style=for-the-badge
-[github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-
-
-<!-- Shield URL -->
-
-[contributors-url]: https://github.com/alperrkilic/heart-attack-prediction/graphs/contributors
-[forks-url]: https://github.com/alperrkilic/heart-attack-prediction/network/members
-[stars-url]: https://github.com/alperrkilic/heart-attack-prediction/stargazers
-[issues-url]: https://github.com/alperrkilic/heart-attack-prediction/issues
-[license-url]: https://github.com/alperrkilic/heart-attack-prediction/blob/master/LICENSE.txt
-
-
-<!-- Contact Links -->
-
-[linkedin-url]: https://www.linkedin.com/in/bayram-alper-kilic/
-[linkedin2-url]: https://www.linkedin.com/in/pelin-koz-5a2874222/
 
 [github1-url]:https://github.com/alperrkilic
 [github2-url]: https://github.com/pelinkoz
